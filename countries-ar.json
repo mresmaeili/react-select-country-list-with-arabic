@@ -1,0 +1,1002 @@
+[
+  {
+    "value": "AD",
+    "label": "أندورا"
+  },
+  {
+    "value": "AE",
+    "label": "الامارات العربية المتحدة"
+  },
+  {
+    "value": "AF",
+    "label": "أفغانستان"
+  },
+  {
+    "value": "AG",
+    "label": "أنتيجوا وبربودا"
+  },
+  {
+    "value": "AI",
+    "label": "أنجويلا"
+  },
+  {
+    "value": "AL",
+    "label": "ألبانيا"
+  },
+  {
+    "value": "AM",
+    "label": "أرمينيا"
+  },
+  {
+    "value": "AO",
+    "label": "أنجولا"
+  },
+  {
+    "value": "AQ",
+    "label": "القطب الجنوبي"
+  },
+  {
+    "value": "AR",
+    "label": "الأرجنتين"
+  },
+  {
+    "value": "AS",
+    "label": "ساموا الأمريكية"
+  },
+  {
+    "value": "AT",
+    "label": "النمسا"
+  },
+  {
+    "value": "AU",
+    "label": "أستراليا"
+  },
+  {
+    "value": "AW",
+    "label": "آروبا"
+  },
+  {
+    "value": "AX",
+    "label": "جزر أولان"
+  },
+  {
+    "value": "AZ",
+    "label": "أذربيجان"
+  },
+  {
+    "value": "BA",
+    "label": "البوسنة والهرسك"
+  },
+  {
+    "value": "BB",
+    "label": "بربادوس"
+  },
+  {
+    "value": "BD",
+    "label": "بنجلاديش"
+  },
+  {
+    "value": "BE",
+    "label": "بلجيكا"
+  },
+  {
+    "value": "BF",
+    "label": "بوركينا فاسو"
+  },
+  {
+    "value": "BG",
+    "label": "بلغاريا"
+  },
+  {
+    "value": "BH",
+    "label": "البحرين"
+  },
+  {
+    "value": "BI",
+    "label": "بوروندي"
+  },
+  {
+    "value": "BJ",
+    "label": "بنين"
+  },
+  {
+    "value": "BL",
+    "label": "سان بارتيلمي"
+  },
+  {
+    "value": "BM",
+    "label": "برمودا"
+  },
+  {
+    "value": "BN",
+    "label": "بروناي"
+  },
+  {
+    "value": "BO",
+    "label": "بوليفيا"
+  },
+  {
+    "value": "BQ",
+    "label": "بونير"
+  },
+  {
+    "value": "BR",
+    "label": "البرازيل"
+  },
+  {
+    "value": "BS",
+    "label": "الباهاما"
+  },
+  {
+    "value": "BT",
+    "label": "بوتان"
+  },
+  {
+    "value": "BV",
+    "label": "جزيرة بوفيه"
+  },
+  {
+    "value": "BW",
+    "label": "بتسوانا"
+  },
+  {
+    "value": "BY",
+    "label": "روسيا البيضاء"
+  },
+  {
+    "value": "BZ",
+    "label": "بليز"
+  },
+  {
+    "value": "CA",
+    "label": "كندا"
+  },
+  {
+    "value": "CC",
+    "label": "جزر كوكوس"
+  },
+  {
+    "value": "CD",
+    "label": "جمهورية الكونغو الديمقراطية"
+  },
+  {
+    "value": "CF",
+    "label": "جمهورية افريقيا الوسطى"
+  },
+  {
+    "value": "CG",
+    "label": "الكونغو - برازافيل"
+  },
+  {
+    "value": "CH",
+    "label": "سويسرا"
+  },
+  {
+    "value": "CI",
+    "label": "ساحل العاج"
+  },
+  {
+    "value": "CK",
+    "label": "جزر كوك"
+  },
+  {
+    "value": "CL",
+    "label": "شيلي"
+  },
+  {
+    "value": "CM",
+    "label": "الكاميرون"
+  },
+  {
+    "value": "CN",
+    "label": "الصين"
+  },
+  {
+    "value": "CO",
+    "label": "كولومبيا"
+  },
+  {
+    "value": "CR",
+    "label": "كوستاريكا"
+  },
+  {
+    "value": "CU",
+    "label": "كوبا"
+  },
+  {
+    "value": "CV",
+    "label": "الرأس الأخضر"
+  },
+  {
+    "value": "CW",
+    "label": "كوراساو"
+  },
+  {
+    "value": "CX",
+    "label": "جزيرة الكريسماس"
+  },
+  {
+    "value": "CY",
+    "label": "قبرص"
+  },
+  {
+    "value": "CZ",
+    "label": "جمهورية التشيك"
+  },
+  {
+    "value": "DE",
+    "label": "ألمانيا"
+  },
+  {
+    "value": "DJ",
+    "label": "جيبوتي"
+  },
+  {
+    "value": "DK",
+    "label": "الدانمرك"
+  },
+  {
+    "value": "DM",
+    "label": "دومينيكا"
+  },
+  {
+    "value": "DO",
+    "label": "جمهورية الدومينيك"
+  },
+  {
+    "value": "DZ",
+    "label": "الجزائر"
+  },
+  {
+    "value": "EC",
+    "label": "الاكوادور"
+  },
+  {
+    "value": "EE",
+    "label": "استونيا"
+  },
+  {
+    "value": "EG",
+    "label": "مصر"
+  },
+  {
+    "value": "EH",
+    "label": "الصحراء الغربية"
+  },
+  {
+    "value": "ER",
+    "label": "اريتريا"
+  },
+  {
+    "value": "ES",
+    "label": "أسبانيا"
+  },
+  {
+    "value": "ET",
+    "label": "اثيوبيا"
+  },
+  {
+    "value": "FI",
+    "label": "فنلندا"
+  },
+  {
+    "value": "FJ",
+    "label": "فيجي"
+  },
+  {
+    "value": "FK",
+    "label": "جزر فوكلاند"
+  },
+  {
+    "value": "FM",
+    "label": "ميكرونيزيا"
+  },
+  {
+    "value": "FO",
+    "label": "جزر فارو"
+  },
+  {
+    "value": "FR",
+    "label": "فرنسا"
+  },
+  {
+    "value": "GA",
+    "label": "الجابون"
+  },
+  {
+    "value": "GB",
+    "label": "المملكة المتحدة"
+  },
+  {
+    "value": "GD",
+    "label": "جرينادا"
+  },
+  {
+    "value": "GE",
+    "label": "جورجيا"
+  },
+  {
+    "value": "GF",
+    "label": "غويانا"
+  },
+  {
+    "value": "GG",
+    "label": "غيرنزي"
+  },
+  {
+    "value": "GH",
+    "label": "غانا"
+  },
+  {
+    "value": "GI",
+    "label": "جبل طارق"
+  },
+  {
+    "value": "GL",
+    "label": "جرينلاند"
+  },
+  {
+    "value": "GM",
+    "label": "غامبيا"
+  },
+  {
+    "value": "GN",
+    "label": "غينيا"
+  },
+  {
+    "value": "GP",
+    "label": "جوادلوب"
+  },
+  {
+    "value": "GQ",
+    "label": "غينيا الاستوائية"
+  },
+  {
+    "value": "GR",
+    "label": "اليونان"
+  },
+  {
+    "value": "GS",
+    "label": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+  },
+  {
+    "value": "GT",
+    "label": "جواتيمالا"
+  },
+  {
+    "value": "GU",
+    "label": "جوام"
+  },
+  {
+    "value": "GW",
+    "label": "غينيا بيساو"
+  },
+  {
+    "value": "GY",
+    "label": "غيانا"
+  },
+  {
+    "value": "HK",
+    "label": "هونج كونج الصينية"
+  },
+  {
+    "value": "HM",
+    "label": "جزيرة هيرد وماكدونالد"
+  },
+  {
+    "value": "HN",
+    "label": "هندوراس"
+  },
+  {
+    "value": "HR",
+    "label": "كرواتيا"
+  },
+  {
+    "value": "HT",
+    "label": "هايتي"
+  },
+  {
+    "value": "HU",
+    "label": "المجر"
+  },
+  {
+    "value": "ID",
+    "label": "اندونيسيا"
+  },
+  {
+    "value": "IE",
+    "label": "أيرلندا"
+  },
+  {
+    "value": "IL",
+    "label": "اسرائيل"
+  },
+  {
+    "value": "IM",
+    "label": "جزيرة مان"
+  },
+  {
+    "value": "IN",
+    "label": "الهند"
+  },
+  {
+    "value": "IO",
+    "label": "المحيط الهندي البريطاني"
+  },
+  {
+    "value": "IQ",
+    "label": "العراق"
+  },
+  {
+    "value": "IR",
+    "label": "ايران"
+  },
+  {
+    "value": "IS",
+    "label": "أيسلندا"
+  },
+  {
+    "value": "IT",
+    "label": "ايطاليا"
+  },
+  {
+    "value": "JE",
+    "label": "جيرسي"
+  },
+  {
+    "value": "JM",
+    "label": "جامايكا"
+  },
+  {
+    "value": "JO",
+    "label": "الأردن"
+  },
+  {
+    "value": "JP",
+    "label": "اليابان"
+  },
+  {
+    "value": "KE",
+    "label": "كينيا"
+  },
+  {
+    "value": "KG",
+    "label": "قرغيزستان"
+  },
+  {
+    "value": "KH",
+    "label": "كمبوديا"
+  },
+  {
+    "value": "KI",
+    "label": "كيريباتي"
+  },
+  {
+    "value": "KM",
+    "label": "جزر القمر"
+  },
+  {
+    "value": "KN",
+    "label": "سانت كيتس ونيفيس"
+  },
+  {
+    "value": "KP",
+    "label": "كوريا الشمالية"
+  },
+  {
+    "value": "KR",
+    "label": "كوريا الجنوبية"
+  },
+  {
+    "value": "KW",
+    "label": "الكويت"
+  },
+  {
+    "value": "KY",
+    "label": "جزر الكايمن"
+  },
+  {
+    "value": "KZ",
+    "label": "كازاخستان"
+  },
+  {
+    "value": "LA",
+    "label": "لاوس"
+  },
+  {
+    "value": "LB",
+    "label": "لبنان"
+  },
+  {
+    "value": "LC",
+    "label": "سانت لوسيا"
+  },
+  {
+    "value": "LI",
+    "label": "ليختنشتاين"
+  },
+  {
+    "value": "LK",
+    "label": "سريلانكا"
+  },
+  {
+    "value": "LR",
+    "label": "ليبيريا"
+  },
+  {
+    "value": "LS",
+    "label": "ليسوتو"
+  },
+  {
+    "value": "LT",
+    "label": "ليتوانيا"
+  },
+  {
+    "value": "LU",
+    "label": "لوكسمبورج"
+  },
+  {
+    "value": "LV",
+    "label": "لاتفيا"
+  },
+  {
+    "value": "LY",
+    "label": "ليبيا"
+  },
+  {
+    "value": "MA",
+    "label": "المغرب"
+  },
+  {
+    "value": "MC",
+    "label": "موناكو"
+  },
+  {
+    "value": "MD",
+    "label": "مولدافيا"
+  },
+  {
+    "value": "ME",
+    "label": "الجبل الأسود"
+  },
+  {
+    "value": "MF",
+    "label": "سانت مارتين"
+  },
+  {
+    "value": "MG",
+    "label": "مدغشقر"
+  },
+  {
+    "value": "MH",
+    "label": "جزر المارشال"
+  },
+  {
+    "value": "MK",
+    "label": "مقدونيا"
+  },
+  {
+    "value": "ML",
+    "label": "مالي"
+  },
+  {
+    "value": "MM",
+    "label": "ميانمار"
+  },
+  {
+    "value": "MN",
+    "label": "منغوليا"
+  },
+  {
+    "value": "MO",
+    "label": "ماكاو الصينية"
+  },
+  {
+    "value": "MP",
+    "label": "جزر ماريانا الشمالية"
+  },
+  {
+    "value": "MQ",
+    "label": "مارتينيك"
+  },
+  {
+    "value": "MR",
+    "label": "موريتانيا"
+  },
+  {
+    "value": "MS",
+    "label": "مونتسرات"
+  },
+  {
+    "value": "MT",
+    "label": "مالطا"
+  },
+  {
+    "value": "MU",
+    "label": "موريشيوس"
+  },
+  {
+    "value": "MV",
+    "label": "جزر الملديف"
+  },
+  {
+    "value": "MW",
+    "label": "ملاوي"
+  },
+  {
+    "value": "MX",
+    "label": "المكسيك"
+  },
+  {
+    "value": "MY",
+    "label": "ماليزيا"
+  },
+  {
+    "value": "MZ",
+    "label": "موزمبيق"
+  },
+  {
+    "value": "NA",
+    "label": "ناميبيا"
+  },
+  {
+    "value": "NC",
+    "label": "كاليدونيا الجديدة"
+  },
+  {
+    "value": "NE",
+    "label": "النيجر"
+  },
+  {
+    "value": "NF",
+    "label": "جزيرة نورفوك"
+  },
+  {
+    "value": "NG",
+    "label": "نيجيريا"
+  },
+  {
+    "value": "NI",
+    "label": "نيكاراجوا"
+  },
+  {
+    "value": "NL",
+    "label": "هولندا"
+  },
+  {
+    "value": "NO",
+    "label": "النرويج"
+  },
+  {
+    "value": "NP",
+    "label": "نيبال"
+  },
+  {
+    "value": "NR",
+    "label": "نورو"
+  },
+  {
+    "value": "NU",
+    "label": "نيوي"
+  },
+  {
+    "value": "NZ",
+    "label": "نيوزيلاندا"
+  },
+  {
+    "value": "OM",
+    "label": "عمان"
+  },
+  {
+    "value": "PA",
+    "label": "بنما"
+  },
+  {
+    "value": "PE",
+    "label": "بيرو"
+  },
+  {
+    "value": "PF",
+    "label": "بولينيزيا الفرنسية"
+  },
+  {
+    "value": "PG",
+    "label": "بابوا غينيا الجديدة"
+  },
+  {
+    "value": "PH",
+    "label": "الفيلبين"
+  },
+  {
+    "value": "PK",
+    "label": "باكستان"
+  },
+  {
+    "value": "PL",
+    "label": "بولندا"
+  },
+  {
+    "value": "PM",
+    "label": "سانت بيير وميكولون"
+  },
+  {
+    "value": "PN",
+    "label": "بتكايرن"
+  },
+  {
+    "value": "PR",
+    "label": "بورتوريكو"
+  },
+  {
+    "value": "PS",
+    "label": "فلسطين"
+  },
+  {
+    "value": "PT",
+    "label": "البرتغال"
+  },
+  {
+    "value": "PW",
+    "label": "بالاو"
+  },
+  {
+    "value": "PY",
+    "label": "باراجواي"
+  },
+  {
+    "value": "QA",
+    "label": "قطر"
+  },
+  {
+    "value": "RE",
+    "label": "روينيون"
+  },
+  {
+    "value": "RO",
+    "label": "رومانيا"
+  },
+  {
+    "value": "RS",
+    "label": "صربيا"
+  },
+  {
+    "value": "RU",
+    "label": "روسيا"
+  },
+  {
+    "value": "RW",
+    "label": "رواندا"
+  },
+  {
+    "value": "SA",
+    "label": "المملكة العربية السعودية"
+  },
+  {
+    "value": "SB",
+    "label": "جزر سليمان"
+  },
+  {
+    "value": "SC",
+    "label": "سيشل"
+  },
+  {
+    "value": "SD",
+    "label": "السودان"
+  },
+  {
+    "value": "SE",
+    "label": "السويد"
+  },
+  {
+    "value": "SG",
+    "label": "سنغافورة"
+  },
+  {
+    "value": "SH",
+    "label": "سانت هيلنا"
+  },
+  {
+    "value": "SI",
+    "label": "سلوفينيا"
+  },
+  {
+    "value": "SJ",
+    "label": "سفالبارد وجان مايان"
+  },
+  {
+    "value": "SK",
+    "label": "سلوفاكيا"
+  },
+  {
+    "value": "SL",
+    "label": "سيراليون"
+  },
+  {
+    "value": "SM",
+    "label": "سان مارينو"
+  },
+  {
+    "value": "SN",
+    "label": "السنغال"
+  },
+  {
+    "value": "SO",
+    "label": "الصومال"
+  },
+  {
+    "value": "SR",
+    "label": "سورينام"
+  },
+  {
+    "value": "SS",
+    "label": "جنوب السودان"
+  },
+  {
+    "value": "ST",
+    "label": "ساو تومي وبرينسيبي"
+  },
+  {
+    "value": "SV",
+    "label": "السلفادور"
+  },
+  {
+    "value": "SX",
+    "label": "سينت مارتن"
+  },
+  {
+    "value": "SY",
+    "label": "سوريا"
+  },
+  {
+    "value": "SZ",
+    "label": "سوازيلاند"
+  },
+  {
+    "value": "TC",
+    "label": "جزر الترك وجايكوس"
+  },
+  {
+    "value": "TD",
+    "label": "تشاد"
+  },
+  {
+    "value": "TF",
+    "label": "المقاطعات الجنوبية الفرنسية"
+  },
+  {
+    "value": "TG",
+    "label": "توجو"
+  },
+  {
+    "value": "TH",
+    "label": "تايلند"
+  },
+  {
+    "value": "TJ",
+    "label": "طاجكستان"
+  },
+  {
+    "value": "TK",
+    "label": "توكيلو"
+  },
+  {
+    "value": "TL",
+    "label": "تيمور الشرقية"
+  },
+  {
+    "value": "TM",
+    "label": "تركمانستان"
+  },
+  {
+    "value": "TN",
+    "label": "تونس"
+  },
+  {
+    "value": "TO",
+    "label": "تونجا"
+  },
+  {
+    "value": "TR",
+    "label": "تركيا"
+  },
+  {
+    "value": "TT",
+    "label": "ترينيداد وتوباغو"
+  },
+  {
+    "value": "TV",
+    "label": "توفالو"
+  },
+  {
+    "value": "TW",
+    "label": "تايوان"
+  },
+  {
+    "value": "TZ",
+    "label": "تانزانيا"
+  },
+  {
+    "value": "UA",
+    "label": "أوكرانيا"
+  },
+  {
+    "value": "UG",
+    "label": "أوغندا"
+  },
+  {
+    "value": "UM",
+    "label": "جزر الولايات المتحدة البعيدة الصغيرة"
+  },
+  {
+    "value": "US",
+    "label": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "value": "UY",
+    "label": "أورجواي"
+  },
+  {
+    "value": "UZ",
+    "label": "أوزبكستان"
+  },
+  {
+    "value": "VA",
+    "label": "الفاتيكان"
+  },
+  {
+    "value": "VC",
+    "label": "سانت فنسنت وغرنادين"
+  },
+  {
+    "value": "VE",
+    "label": "فنزويلا"
+  },
+  {
+    "value": "VG",
+    "label": "جزر فرجين البريطانية"
+  },
+  {
+    "value": "VI",
+    "label": "جزر فرجين الأمريكية"
+  },
+  {
+    "value": "VN",
+    "label": "فيتنام"
+  },
+  {
+    "value": "VU",
+    "label": "فانواتو"
+  },
+  {
+    "value": "WF",
+    "label": "جزر والس وفوتونا"
+  },
+  {
+    "value": "WS",
+    "label": "ساموا"
+  },
+  {
+    "value": "XK",
+    "label": "كوسوفو"
+  },
+  {
+    "value": "YE",
+    "label": "اليمن"
+  },
+  {
+    "value": "YT",
+    "label": "مايوت"
+  },
+  {
+    "value": "ZA",
+    "label": "جمهورية جنوب افريقيا"
+  },
+  {
+    "value": "ZM",
+    "label": "زامبيا"
+  },
+  {
+    "value": "ZW",
+    "label": "زيمبابوي"
+  }
+]

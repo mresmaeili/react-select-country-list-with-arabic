@@ -1,13 +1,13 @@
 {
   "_from": "react-select-country-list-with-arabic",
-  "_id": "react-select-country-list-with-arabic@1",
+  "_id": "react-select-country-list-with-arabic",
   "_inBundle": false,
-  "_integrity": "sha512-eRgXL613dVyJiE99yKDYLvSBKDxvIlhkmvO2DVIjdKVyUQq6kBqoMUV/2zuRIAsbRXgBGmKjeL1dxjf7zTfszg==",
+  "_integrity": "",
   "_location": "/react-select-country-list-with-arabic",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
-    "registry": true,
+    "registry": false,
     "raw": "react-select-country-list-with-arabic",
     "name": "react-select-country-list-with-arabic",
     "escapedName": "react-select-country-list-with-arabic",

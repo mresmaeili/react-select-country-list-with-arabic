@@ -2,11 +2,20 @@ let { i18n } = require('../../i18n');
 class CountryList {
    
   constructor() {
-    if(i18n.language === "ar"){
-      this.data = require('./countries-ar.json')
-  }else{
-    this.data = require('./data.json')
-  }
+    switch(i18n.language) {
+      case "ar": {
+        this.data = require('./countries-ar.json')
+         break;
+      }
+      case "en": {
+        this.data = require('./data.json')
+         break;
+      }
+      default: {
+        this.data = require('./data.json')
+         break;
+      }
+   }
     this.labelMap = {}
     this.valueMap = {}
 

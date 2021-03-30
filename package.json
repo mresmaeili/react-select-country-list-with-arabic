@@ -1,64 +1,39 @@
 {
-  "_from": "react-select-country-list-with-arabic",
-  "_id": "react-select-country-list-with-arabic",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/react-select-country-list-with-arabic",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": false,
-    "raw": "react-select-country-list-with-arabic",
-    "name": "react-select-country-list-with-arabic",
-    "escapedName": "react-select-country-list-with-arabic",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "author": {
-    "name": "Mostafa Esmaeili",
-    "email": "lvlr.esmaeili@gmail.com"
-  },
-  "bugs": {
-    "url": "https://github.com/mresmaeili/react-select-country-list-with-arabic/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {},
-  "deprecated": false,
+  "name": "react-select-country-list-with-arabic",
+  "version": "1",
   "description": "Maps ISO 3166-1-alpha-2 codes to English country names and match react-select options props",
-  "devDependencies": {
-    "csv-parser": "^1.11.0",
-    "lodash.isempty": "^4.4.0",
-    "tap": "^7.1.2"
-  },
-  "directories": {
-    "test": "test"
-  },
+  "main": "country-list.js",
   "files": [
     "data.json",
     "data-native.json",
     "countries-ar.json"
   ],
-  "homepage": "https://github.com/mresmaeili/react-select-country-list-with-arabic",
+  "dependencies": {},
+  "devDependencies": {
+    "csv-parser": "^1.11.0",
+    "lodash.isempty": "^4.4.0",
+    "tap": "^7.1.2"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mresmaeili/react-select-country-list-with-arabic.git"
+  },
   "keywords": [
     "country",
     "countries",
     "country-list",
     "react-select"
   ],
+  "author": "Dev M <lvlr.esmaeili@gmail.com>",
   "license": "MIT",
-  "main": "country-list.js",
-  "name": "react-select-country-list-with-arabic",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mresmaeili/react-select-country-list-with-arabic.git"
+  "homepage": "https://github.com/mresmaeili/react-select-country-list-with-arabic",
+  "bugs": {
+    "url": "https://github.com/mresmaeili/react-select-country-list-with-arabic/issues"
   },
-  "scripts": {
-    "test": "tap test/*.js"
-  },
-  "version": "1"
+  "directories": {
+    "test": "test"
+  }
 }

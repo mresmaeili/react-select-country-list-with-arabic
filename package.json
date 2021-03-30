@@ -51,7 +51,7 @@
     "react-select"
   ],
   "license": "MIT",
-  "main": "country-list-with-arabic.js",
+  "main": "country-list.js",
   "name": "react-select-country-list-with-arabic",
   "repository": {
     "type": "git",

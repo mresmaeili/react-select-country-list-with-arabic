@@ -7,7 +7,7 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
-    "registry": true,
+    "registry": false,
     "raw": "react-select-country-list-with-arabic",
     "name": "react-select-country-list-with-arabic",
     "escapedName": "react-select-country-list-with-arabic",
@@ -57,9 +57,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mresmaeili/react-select-country-list-with-arabic.git"
-  },
-  "scripts": {
-    "test": "tap test/*.js"
   },
   "version": "1"
 }

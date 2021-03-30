@@ -1,16 +1,16 @@
 {
-  "_from": "react-select-country-list",
-  "_id": "react-select-country-list@2.2.3",
+  "_from": "react-select-country-list-with-arabic",
+  "_id": "react-select-country-list-with-arabic@1",
   "_inBundle": false,
   "_integrity": "sha512-eRgXL613dVyJiE99yKDYLvSBKDxvIlhkmvO2DVIjdKVyUQq6kBqoMUV/2zuRIAsbRXgBGmKjeL1dxjf7zTfszg==",
-  "_location": "/react-select-country-list",
+  "_location": "/react-select-country-list-with-arabic",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "react-select-country-list",
-    "name": "react-select-country-list",
-    "escapedName": "react-select-country-list",
+    "raw": "react-select-country-list-with-arabic",
+    "name": "react-select-country-list-with-arabic",
+    "escapedName": "react-select-country-list-with-arabic",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,16 +19,16 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-select-country-list/-/react-select-country-list-2.2.3.tgz",
+  "_resolved": "https://registry.npmjs.org/react-select-country-list/-/react-select-country-list-with-arabic.tgz",
   "_shasum": "af263072a7797a660e7bd67702495dd1f95268ab",
-  "_spec": "react-select-country-list",
+  "_spec": "react-select-country-list-with-arabic",
   "_where": "C:\\Users\\asus\\Desktop\\ha-client",
   "author": {
-    "name": "ChunLin Wu",
-    "email": "wulin40063@gmail.com"
+    "name": "Mostafa Esmaeili",
+    "email": "lvlr.esmaeili@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/Chun-Lin/react-select-country-list/issues"
+    "url": "https://github.com/mresmaeili/react-select-country-list-with-arabic/issues"
   },
   "bundleDependencies": false,
   "dependencies": {},
@@ -46,7 +46,7 @@
     "data.json",
     "data-native.json"
   ],
-  "homepage": "https://github.com/Chun-Lin/react-select-country-list",
+  "homepage": "https://github.com/mresmaeili/react-select-country-list-with-arabic",
   "keywords": [
     "country",
     "countries",
@@ -55,13 +55,13 @@
   ],
   "license": "MIT",
   "main": "country-list.js",
-  "name": "react-select-country-list",
+  "name": "react-select-country-list-with-arabic",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chun-Lin/react-select-country-list.git"
+    "url": "git+https://github.com/mresmaeili/react-select-country-list-with-arabic.git"
   },
   "scripts": {
     "test": "tap test/*.js"
   },
-  "version": "2.2.3"
+  "version": "1"
 }

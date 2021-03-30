@@ -19,10 +19,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-select-country-list/-/react-select-country-list-with-arabic.tgz",
-  "_shasum": "af263072a7797a660e7bd67702495dd1f95268ab",
-  "_spec": "react-select-country-list-with-arabic",
-  "_where": "C:\\Users\\asus\\Desktop\\ha-client",
   "author": {
     "name": "Mostafa Esmaeili",
     "email": "lvlr.esmaeili@gmail.com"
@@ -44,7 +40,8 @@
   },
   "files": [
     "data.json",
-    "data-native.json"
+    "data-native.json",
+    "countries-ar.json"
   ],
   "homepage": "https://github.com/mresmaeili/react-select-country-list-with-arabic",
   "keywords": [
@@ -54,7 +51,7 @@
     "react-select"
   ],
   "license": "MIT",
-  "main": "country-list.js",
+  "main": "country-list-with-arabic.js",
   "name": "react-select-country-list-with-arabic",
   "repository": {
     "type": "git",

@@ -1,0 +1,64 @@
+{
+  "_from": "react-select-country-list-with-arabic",
+  "_id": "react-select-country-list-with-arabic@1",
+  "_inBundle": false,
+  "_integrity": "sha512-eRgXL613dVyJiE99yKDYLvSBKDxvIlhkmvO2DVIjdKVyUQq6kBqoMUV/2zuRIAsbRXgBGmKjeL1dxjf7zTfszg==",
+  "_location": "/react-select-country-list-with-arabic",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-select-country-list-with-arabic",
+    "name": "react-select-country-list-with-arabic",
+    "escapedName": "react-select-country-list-with-arabic",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Mostafa Esmaeili",
+    "email": "lvlr.esmaeili@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mresmaeili/react-select-country-list-with-arabic/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Maps ISO 3166-1-alpha-2 codes to English country names and match react-select options props",
+  "devDependencies": {
+    "csv-parser": "^1.11.0",
+    "lodash.isempty": "^4.4.0",
+    "tap": "^7.1.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "data.json",
+    "data-native.json",
+    "countries-ar.json"
+  ],
+  "homepage": "https://github.com/mresmaeili/react-select-country-list-with-arabic",
+  "keywords": [
+    "country",
+    "countries",
+    "country-list",
+    "react-select"
+  ],
+  "license": "MIT",
+  "main": "country-list-with-arabic.js",
+  "name": "react-select-country-list-with-arabic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mresmaeili/react-select-country-list-with-arabic.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "version": "1"
+}

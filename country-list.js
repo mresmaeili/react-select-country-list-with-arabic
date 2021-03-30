@@ -4,7 +4,7 @@ class CountryList {
   constructor() {
     switch(i18n.language) {
       case "ar": {
-        this.data = require('./countries-ar.json')
+        this.data = require('./data-ar.json')
          break;
       }
       case "en": {

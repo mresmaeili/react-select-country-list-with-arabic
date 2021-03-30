@@ -1,8 +1,8 @@
 {
   "_from": "react-select-country-list-with-arabic",
-  "_id": "react-select-country-list-with-arabic@1",
+  "_id": "react-select-country-list-with-arabic",
   "_inBundle": false,
-  "_integrity": "sha512-eRgXL613dVyJiE99yKDYLvSBKDxvIlhkmvO2DVIjdKVyUQq6kBqoMUV/2zuRIAsbRXgBGmKjeL1dxjf7zTfszg==",
+  "_integrity": "",
   "_location": "/react-select-country-list-with-arabic",
   "_phantomChildren": {},
   "_requested": {
@@ -29,7 +29,7 @@
   "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
-  "description": "Maps ISO 3166-1-alpha-2 codes to English country names and match react-select options props",
+  "description": "Maps English or Arabic country names based on current language of i18next, and match react-select options props",
   "devDependencies": {
     "csv-parser": "^1.11.0",
     "lodash.isempty": "^4.4.0",
@@ -48,6 +48,7 @@
     "country",
     "countries",
     "country-list",
+    "country-list-arabic",
     "react-select"
   ],
   "license": "MIT",
